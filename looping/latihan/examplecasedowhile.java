@@ -1,4 +1,4 @@
-package looping.latihan;
+
 
 import java.util.Scanner;
 

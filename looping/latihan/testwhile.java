@@ -1,4 +1,4 @@
-package looping.latihan;
+
 
 public class testwhile {
     public static void main(String[] args) {
